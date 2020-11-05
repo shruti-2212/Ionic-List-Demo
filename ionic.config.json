@@ -1,0 +1,7 @@
+{
+  "name": "basic_ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
